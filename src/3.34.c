@@ -95,7 +95,7 @@ return 0;
 
 /**************************************************************************
  * (C) Copyright 2019 by bikerinside                                      *
- *                                                                        *                                                  *
+ *                                                                        *                                                  
  * DISCLAIMER:                                                            *
  * The author make no warranty of any kind, expressed or implied,         *
  * with regard to these programs.                                         *
